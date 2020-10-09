@@ -1,0 +1,2 @@
+# randomstringenerator
+c++ string generator
